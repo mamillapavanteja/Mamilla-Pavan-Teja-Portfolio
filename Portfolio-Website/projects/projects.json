@@ -1,0 +1,22 @@
+[
+  {
+    "name": "IoT-Based Smart Irrigation System",
+    "desc": "Academic ECE project using Arduino, soil-moisture sensing and relay control to automate irrigation based on soil conditions. Designed to reduce water wastage and demonstrate practical IoT and embedded-system concepts.",
+    "image": "smartirrigation",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "RFID-Based Smart Attendance System",
+    "desc": "Academic embedded-systems project using RFID technology and a microcontroller to identify users and record attendance. Built to demonstrate RFID communication, sensor interfacing and basic data handling.",
+    "image": "rfidattendance",
+    "category": "embedded",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
