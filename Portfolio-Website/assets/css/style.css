@@ -1223,3 +1223,98 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
+
+/* ===== PAVAN TEJA PORTFOLIO ADDITIONS ===== */
+.certifications {
+  background: #ffffff;
+  min-height: 70vh;
+  padding-bottom: 6rem;
+}
+
+.certifications .heading span {
+  color: rgb(115, 3, 167);
+}
+
+.cert-grid {
+  width: 90%;
+  max-width: 1200px;
+  margin: 3rem auto 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.cert-card {
+  background: #f7f8ff;
+  border-radius: 1rem;
+  padding: 2.5rem 2rem;
+  text-align: center;
+  box-shadow: 0 0.5rem 1.2rem rgba(0, 0, 0, 0.12);
+  border: 1px solid #e5e7f5;
+  transition: 0.3s ease;
+}
+
+.cert-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.16);
+}
+
+.cert-card i {
+  font-size: 3.2rem;
+  color: #2506ad;
+  margin-bottom: 1.2rem;
+}
+
+.cert-card h3 {
+  font-size: 1.6rem;
+  color: #012970;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.experience .content .desc ul {
+  padding: 0.8rem 2rem 1.5rem 3rem;
+}
+
+.experience .content .desc ul li {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  list-style: disc;
+  margin-bottom: 0.5rem;
+  text-transform: none;
+}
+
+.skills .container .bar .info img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+.skills .container .bar .info span {
+  text-transform: none;
+  text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+  .cert-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .certifications {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .cert-grid {
+    width: 100%;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .cert-card {
+    padding: 2rem 1.5rem;
+  }
+}

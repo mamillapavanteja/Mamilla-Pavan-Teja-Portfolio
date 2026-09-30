@@ -1,19 +1,23 @@
 [
     {
-        "name": "C",
-        "icon": "https://img.icons8.com/color/48/000000/c-programming.png"
-    },
-    {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/color/48/000000/php.png"
     },
     {
         "name": "HTML5",
@@ -24,24 +28,28 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "REST Basics",
+        "icon": "https://img.icons8.com/color/48/000000/api-settings.png"
     },
     {
-        "name": "Arduino",
-        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
-        "name": "IoT",
-        "icon": "https://img.icons8.com/color/48/000000/internet-of-things.png"
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
     {
-        "name": "Embedded Systems",
-        "icon": "https://img.icons8.com/color/48/000000/electronics.png"
+        "name": "DBMS",
+        "icon": "https://img.icons8.com/color/48/000000/database.png"
     },
     {
-        "name": "MATLAB",
-        "icon": "https://img.icons8.com/color/48/000000/matlab.png"
+        "name": "OOP",
+        "icon": "https://img.icons8.com/color/48/000000/object-oriented-programming.png"
+    },
+    {
+        "name": "Data Structures",
+        "icon": "https://img.icons8.com/color/48/000000/data-structure.png"
     },
     {
         "name": "Git",
@@ -50,5 +58,37 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"
+    },
+    {
+        "name": "Eclipse",
+        "icon": "https://img.icons8.com/color/48/000000/java-eclipse.png"
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/fluency/48/000000/jupyter.png"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "https://img.icons8.com/color/48/000000/matlab.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/color/48/000000/matplotlib.png"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
     }
 ]

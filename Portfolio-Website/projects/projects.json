@@ -1,18 +1,18 @@
 [
   {
-    "name": "IoT-Based Smart Irrigation System",
-    "desc": "Academic ECE project using Arduino, soil-moisture sensing and relay control to automate irrigation based on soil conditions. Designed to reduce water wastage and demonstrate practical IoT and embedded-system concepts.",
-    "image": "smartirrigation",
-    "category": "embedded",
+    "name": "Student Management System",
+    "desc": "A beginner-friendly Java and MySQL application for managing student records with CRUD operations, search, update, delete, and database connectivity using JDBC and OOP concepts.",
+    "image": "java-project",
+    "category": "java",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "RFID-Based Smart Attendance System",
-    "desc": "Academic embedded-systems project using RFID technology and a microcontroller to identify users and record attendance. Built to demonstrate RFID communication, sensor interfacing and basic data handling.",
-    "image": "rfidattendance",
+    "name": "Arduino-Based Wireless Frequency Transmitter",
+    "desc": "Developed a system to measure input signal frequency using an Arduino-based setup and implemented wireless transmission of measured data to a mobile device or PC using Bluetooth or Wi-Fi.",
+    "image": "frequency-transmitter",
     "category": "embedded",
     "links": {
       "view": "#",
